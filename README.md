@@ -16,9 +16,9 @@ https://www.asam.net/index.php?eID=dumpFile&t=f&f=3460&token=14e7c7fab9c9b75118b
     * entity 란 road users 등을 지칭
   * Action triggered by condition
   * RoadNetWork 의 road network logic 서술
-  OpenDrive 는 road network 의 정적 요소 서술 ex) road, lanes, signs<br/>
-  OpenScenario 는 road network 의 동적 요소 서술 ex) traffic maneuvers, weather conditions<br/>
-  OpenScenario V1.0 xml 형식의 시나리오 작성(story 구성)<br/>
+  OpenDrive 는 road network 의 정적 요소 서술 ex) road, lanes, signs<br/><br/>
+  OpenScenario 는 road network 의 동적 요소 서술 ex) traffic maneuvers, weather conditions<br/><br/>
+  OpenScenario V1.0 xml 형식의 시나리오 작성(story 구성)<br/><br/>
   OpenScenario V2.0 python 기반 가독성 향상 <br/>
   
 
